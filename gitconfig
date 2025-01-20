@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = echo $GITHUB_USERNAME
-	name = export GITHUB_USERNAME=`gh api user | jq -r '.login'`
+	email = rwaels@hotmail.com
+	name = Rudolph Waels
